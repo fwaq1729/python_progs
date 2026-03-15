@@ -24,7 +24,7 @@
 #include <nlohmann/json.hpp>
 #include <boost/python.hpp>
 #include <boost/python/suite/indexing/vector_indexing_suite.hpp>
-#include "/home/fa/software/fa/cpp_progs/oop_example/nbody/nbody.h"
+#include "../../../cpp_progs/oop_example/nbody/nbody.h"
 
 using namespace boost::python;
 
