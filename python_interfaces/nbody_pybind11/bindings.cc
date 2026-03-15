@@ -27,7 +27,7 @@
 #include <pybind11/pybind11.h>
 #include <pybind11/stl.h>
 #include <nlohmann/json.hpp>
-#include "/home/fa/software/fa/cpp_progs/oop_example/nbody/nbody.h"
+#include "../../../cpp_progs/oop_example/nbody/nbody.h"
 
 namespace py = pybind11;
 
